@@ -1,0 +1,41 @@
+p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    font-weight: 100;
+    font-size: 20px;
+    font-size: 2rem;
+    /* font-size: 1em; */
+    font: italic 700 20px 'Roboto';
+    /* direction: rtl; */
+    text-align: right;
+    text-align: center;
+    text-align: justify;
+    word-spacing: 25px;
+    letter-spacing: 10px;
+    text-transform: capitalize;
+    text-transform: lowercase;
+    text-transform: uppercase;
+    text-transform: none;
+    text-transform: inherit;
+    text-transform: initial;
+    text-transform: unset;
+    white-space: nowrap;
+    white-space: normal;
+    word-break: break-word;
+
+}
+
+ul{
+    list-style-type: circle;
+    list-style-type: decimal;
+    list-style-type: decimal-leading-zero;
+    list-style-type: disc;
+    /* list-style-type: georgian; */
+    /* list-style-type: lower-alpha; */
+    /* list-style-type: lower-greek; */
+    /* list-style-type: lower-latin; */
+    /* list-style-type: lower-roman; */
+    /* list-style-type: square; */
+    list-style-image: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(249,255,4,1) 48%, rgba(0,212,255,1) 100%);;
+}
