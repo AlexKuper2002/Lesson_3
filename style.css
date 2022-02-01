@@ -38,4 +38,5 @@ ul{
     /* list-style-type: lower-roman; */
     /* list-style-type: square; */
     list-style-image: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(249,255,4,1) 48%, rgba(0,212,255,1) 100%);;
+    list-style-image: url("metrize.png");
 }
